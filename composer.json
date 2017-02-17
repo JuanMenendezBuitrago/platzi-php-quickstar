@@ -1,0 +1,18 @@
+{
+    "name": "juan-menendez/php-laravel",
+    "description": "Proyecto PHP en Platzi con Laravel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Juan Menendez",
+            "email": "juan.menendez.buitrago@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PlatziPHP\\": "src/"
+        }
+    }
+}
